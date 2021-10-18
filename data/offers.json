@@ -1,0 +1,56 @@
+ [
+    {
+      "id":"1",
+      "title":"Titulo oferta 1",
+      "description":"Descripción oferta 1",
+      "company":"Company 1",
+      "country":"Country 1",
+      "city":"City 1",
+      "createdDate":"Create date 1"
+    },
+    {
+      "id":"2",
+      "title":"Titulo oferta 2",
+      "description":"Descripción oferta 2",
+      "company":"Company 2",
+      "country":"Country 2",
+      "city":"City 2",
+      "createdDate":"Create date 2"
+    },
+    {
+      "id":"3",
+      "title":"Titulo oferta 3",
+      "description":"Descripción oferta 3",
+      "company":"Company 3",
+      "country":"Country 3",
+      "city":"City 3",
+      "createdDate":"Create date 3"
+    },
+    {
+      "id":"4",
+      "title":"Titulo oferta 4",
+      "description":"Descripción oferta 4",
+      "company":"Company 4",
+      "country":"Country 4",
+      "city":"City 4",
+      "createdDate":"Create date 4"
+    },
+    {
+      "id":"2",
+      "title":"Titulo oferta 5",
+      "description":"Descripción oferta 5",
+      "company":"Company 5",
+      "country":"Country 5",
+      "city":"City 5",
+      "createdDate":"Create date 5"
+    },
+    {
+      "id":"6",
+      "title":"Titulo oferta 6",
+      "description":"Descripción oferta 6",
+      "company":"Company 1",
+      "country":"Country 6",
+      "city":"City 6",
+      "createdDate":"Create date 6"
+    }
+  ]
